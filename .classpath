@@ -28,6 +28,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/zalo-java-sdk-1.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="repo/zalo-java-sdk-1.0-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
